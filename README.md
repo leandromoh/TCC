@@ -9,4 +9,4 @@ estilo de programação, determinando a visão que o programador possui sobre a
 estruturação e execução do programa, permitindo ou proibindo a utilização de
 algumas técnicas de programação. Este trabalho tem como objetivo apresentar os
 conceitos e técnicas dos principais paradigmas de programação: ***procedimental***, ***orientado a objeto***, 
- ***funcional***, ***lógico***, bem como estabelecer uma análise comparativa entre os mesmos.
+ ***funcional*** e ***lógico***, bem como estabelecer uma análise comparativa entre os mesmos.
