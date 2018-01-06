@@ -1,6 +1,6 @@
-#PARADIGMAS DE PROGRAMAÇÃO: UMA ABORDAGEM COMPARATIVA
+# PARADIGMAS DE PROGRAMAÇÃO: UMA ABORDAGEM COMPARATIVA
 
-##Trabalho de Conclusão de Curso - FATEC-SP
+## Trabalho de Conclusão de Curso - FATEC-SP
 
 Programação é um amplo campo dentro da ciência da computação, por meio desta
 podemos desenvolver sistemas em diversas áreas, tais como mídias sociais,
@@ -10,9 +10,9 @@ estruturação e execução do programa, permitindo ou proibindo a utilização 
 algumas técnicas de programação. Este trabalho tem como objetivo apresentar os
 conceitos e técnicas dos principais paradigmas de programação: 
 
-###procedimental,
-###orientado a objeto, 
-###funcional 
-###lógico
+### procedimental,
+### orientado a objeto, 
+### funcional 
+### lógico
 
 bem como estabelecer uma análise comparativa entre os mesmos.
