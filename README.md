@@ -10,3 +10,6 @@ estruturação e execução do programa, permitindo ou proibindo a utilização 
 algumas técnicas de programação. Este trabalho tem como objetivo apresentar os
 conceitos e técnicas dos principais paradigmas de programação: ***procedimental***, ***orientado a objeto***, 
  ***funcional*** e ***lógico***, bem como estabelecer uma análise comparativa entre os mesmos.
+
+Versão no gitbook:  
+https://leandromoh.gitbooks.io/tcc-paradigmas-de-programacao/content/
